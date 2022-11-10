@@ -8,7 +8,6 @@ public class DuplicatesArray01
     System.out.println("Enter size of Array");
     int n = sc.nextInt();
     int [] a = new int [n];
-    int [] b = new int [n];
     boolean c = false;
     for(int i=0;i<n;i++)
     {
